@@ -30,4 +30,4 @@ def hilbert_line(level = 4,angle =90, size =300 , speed = 5):
 
 
 if __name__ == '__main__':
-    hilbert_line()
+    hilbert_line(speed = 0)
